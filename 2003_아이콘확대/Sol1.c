@@ -1,4 +1,4 @@
-// 2003_아이콘확대
+// 2003_아이콘확대(https://codeup.kr/problem.php?id=2003)
 // Sol1
 // 메모리: 1124, 시간: 0, 코드길이: 840B
 #include <stdio.h>
