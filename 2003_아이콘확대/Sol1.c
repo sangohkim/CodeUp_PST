@@ -1,6 +1,6 @@
 // 2003_아이콘확대(https://codeup.kr/problem.php?id=2003)
 // Sol1
-// 메모리: 1124, 시간: 0, 코드길이: 840B
+// 메모리(memory): 1124, 시간(time): 0, 코드길이(length): 840B
 #include <stdio.h>
 char arr[75][75];
 int main(void)
